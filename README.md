@@ -91,5 +91,5 @@ This project is licensed under the MIT License.
 
 ## 👩‍💻 Author
 **Shalini Saurav**
-- GitHub: [yourusername](https://github.com/ShaliniSaurav)
+- GitHub: [ShaliniSaurav](https://github.com/ShaliniSaurav)
 
