@@ -83,13 +83,8 @@ This project involves:
 - Deploy as a web application
 
 ---
-
-## 📜 License
-This project is licensed under the MIT License.
-
 ---
 
 ## 👩‍💻 Author
 **Shalini Saurav**
 - GitHub: [ShaliniSaurav](https://github.com/ShaliniSaurav)
-
